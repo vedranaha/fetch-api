@@ -51,6 +51,6 @@ async function deleteWithFetch() {
 }
 
 // getWithFetch();
-putWithFetch();
-
+//putWithFetch();
+//postWithFetch()
 //deleteWithFetch();
